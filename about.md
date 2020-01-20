@@ -1,4 +1,4 @@
-# About
+# About Me
 
 I am a research developer with experience writing **Python** and **Node.js** back-ends, storing telemetry data in **noSQL** databases, and writing web front-ends using **JavaScript** frameworks. I began studying machine learning in 2017 and am currently pursuing a M.S. in Machine Learning from CMU.
 
