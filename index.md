@@ -1,4 +1,4 @@
-![profile picture](https://www.bryanlearn.com/res/blearn_tiny.png)
+![profile picture](images/blearn_tiny.png)
 
 ## Bryan Learn
 
