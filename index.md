@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+![profile picture](https://www.bryanlearn.com/res/blearn_tiny.png)
 
-![Image of fast.ai logo](images/logo.png)
+## Bryan Learn
 
-## This is a title
+### Research Programmer
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+#### Network Programmer _// Python, C_
+#### Web Developer _// Node.js, React_
+#### Research _// TCP/IP, AI_
+#### Sys Admin _// Linux, NoSQL_
