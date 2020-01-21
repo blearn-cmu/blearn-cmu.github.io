@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Blearn-CMU's Blog
-description: [software developer] networking | machine learning | game development | graph theory
+title: "Blearn-CMU's Blog"
+description: "[software developer] networking | machine learning | game development | graph theory"
 github_username: blearn-cmu
 
 # Email and twitter are optional:
