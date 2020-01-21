@@ -8,7 +8,7 @@
 
 **Web Developer _// Node.js, React_**
 
-**Research _// TCP/IP, AI_**
+**Research _// Game Design, AI_**
 
 **Sys Admin _// Linux, NoSQL_**
 
