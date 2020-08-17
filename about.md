@@ -1,7 +1,5 @@
 # About Bryan Learn
 
-2014 - M.S., Computer Science, Shippensburg University | 2012 - B.S., Computer Science, Slippery Rock University
-
 I am a research developer with experience writing Python and Node.js back-ends, storing telemetry data in noSQL databases, and writing web front-ends using JS frameworks. I began studying machine learning at CMU in 2017.
 
 I work at DorothyAI where I help develop and deploy novel AI solutions to patent searching.
