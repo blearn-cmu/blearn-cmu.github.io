@@ -1,10 +1,12 @@
 # About Bryan Learn
 
-I am a research developer with interests in graph theory, game design, machine learning, database technology, and computer networking.
+2014 - M.S., Computer Science, Shippensburg University | 2012 - B.S., Computer Science, Slippery Rock University
 
-I work at Carnegie Mellon University with the [OH!Lab](https://ohlabcmu.wordpress.com/) in HCII. I am currently the lead developer for the PeerPresents web application.
+I am a research developer with experience writing Python and Node.js back-ends, storing telemetry data in noSQL databases, and writing web front-ends using JS frameworks. I began studying machine learning at CMU in 2017.
 
-My career at CMU began at the Pittsburgh Supercomputing Center where I supported high performance networking research projects for five years. I focused on **Software Defined Networking** and **TCP/IP**.
+I work at DorothyAI where I help develop and deploy novel AI solutions to patent searching.
+
+My career at CMU began at the Pittsburgh Supercomputing Center where I supported high performance networking research projects for five years. I focused on Software Defined Networking and the evolution of the TCP/IP stack. The remainder of my time at CMU I worked with the Computer Science department and the Human-Computer Interaction Institute to help develop web applications.
 
 During my graduate and undergraduate studies I focused on high performance computing. With the support of grants my advisor obtained, I built several Beowulf clusters to provide Slippery Rock University with more distributed environments for curriculum use. I utilized those resources to develop reference implementations of common distributed algorithms using MPI and GPGPU programming techniques.
 
